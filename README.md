@@ -43,7 +43,7 @@ Hi, I'm **Ayoub Boursas**, a **Mobile App Developer** with a strong focus on bui
 - **Others**
 <div style="display:flex">
 <img width="60" src="https://img.icons8.com/color/60/java-coffee-cup-logo--v1.png" alt="Java"/>
-<img width="60" src="https://img.icons8.com/color/60/uml.png" alt="UML"/>
+<img width="60" src="https://img.icons8.com/?size=100&id=YUKvLGE4zROg&format=png&color=000000" alt="UML"/>
 <img width="60" src="https://img.icons8.com/color/60/python--v1.png" alt="Python"/>
 </div>
 
