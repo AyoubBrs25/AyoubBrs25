@@ -37,7 +37,7 @@ Hi, I'm **Ayoub Boursas**, a **Mobile App Developer** with a strong focus on bui
 
 - **Databases**
 <div style="display:flex">
-<img width="60" src="icons/mysql.png" />
+<img width="60" src="https://img.icons8.com/?size=100&id=39858&format=png&color=000000" />
 </div>
 
 - **Others**
