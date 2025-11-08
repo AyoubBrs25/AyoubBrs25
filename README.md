@@ -33,11 +33,13 @@ Hi, I'm **Ayoub Boursas**, a **Mobile App Developer** with a strong focus on bui
 <img width="60" height="60" src="https://img.icons8.com/color/60/android-studio--v3.png" alt="android-studio"/>
 <img width="60" height="60" src="/SimpleIconsGetx.png" alt="getx"/>
 <img width="60" height="60" src="https://img.icons8.com/color/60/api-settings.png" alt="apis"/>
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png" alt="external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo"/>
 </div>
 
 - **Databases**
 <div style="display:flex">
 <img width="60" src="https://img.icons8.com/?size=100&id=39858&format=png&color=000000" />
+<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 </div>
 
 - **Others**
@@ -45,6 +47,8 @@ Hi, I'm **Ayoub Boursas**, a **Mobile App Developer** with a strong focus on bui
 <img width="60" src="https://img.icons8.com/color/60/java-coffee-cup-logo--v1.png" alt="Java"/>
 <img width="60" src="https://img.icons8.com/?size=100&id=YUKvLGE4zROg&format=png&color=000000" alt="UML"/>
 <img width="60" src="https://img.icons8.com/color/60/python--v1.png" alt="Python"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>  
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
 </div>
 
 ---
